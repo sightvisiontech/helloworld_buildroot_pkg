@@ -2,7 +2,7 @@
 
 int main (void) 
 {
-    printf ("\nHello World - Buildroot sample package");
+    printf ("\nHello World - Buildroot sample package\n");
     
     return 0;
 }
